@@ -7,3 +7,4 @@ yaml
 *.logs
 tmp
 temp
+*.md
